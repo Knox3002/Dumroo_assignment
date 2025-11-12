@@ -1,0 +1,11 @@
+student_id,name,grade,class,region,homework_submitted,quiz_date,quiz_name,quiz_score,date
+1,Aarav Sharma,8,A,North,False,2025-11-17,Math Quiz 1,78,2025-11-10
+2,Diya Singh,8,A,North,True,2025-11-18,Science Quiz 1,85,2025-11-11
+3,Rahul Verma,9,B,West,False,2025-11-19,Math Quiz 1,64,2025-11-12
+4,Meera Patel,8,B,North,False,2025-11-25,History Quiz 1,90,2025-11-18
+5,Samir Khan,7,A,South,True,2025-11-20,Math Quiz 1,88,2025-11-13
+6,Priya Das,8,A,North,True,2025-11-24,Science Quiz 2,92,2025-11-14
+7,Rajesh Gupta,8,A,East,False,2025-11-26,Math Quiz 2,70,2025-11-15
+8,Anita Roy,9,A,West,True,2025-11-27,Science Quiz 2,81,2025-11-16
+9,Karan Mehta,8,A,North,False,2025-11-28,English Quiz 1,75,2025-11-17
+10,Sana Ali,8,B,North,True,2025-11-29,Math Quiz 2,95,2025-11-18
